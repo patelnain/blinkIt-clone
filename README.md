@@ -12,16 +12,16 @@ Build a complete e-commerce platform that looks like Blinkit using the MERN stac
 3. create .env file
 4. put this global variable in .env file
    
-FRONTEND_URL = "http://localhost:5173"
-MONGODB_URI=
-RESEND_API = 
-SECRET_KEY_ACCESS_TOKEN = 
-SECRET_KEY_REFRESH_TOKEN = 
-CLOUDINARY_CLOUD_NAME = 
-CLOUDINARY_API_KEY = 
-CLOUDINARY_API_SECRET = 
-STRIPE_SECRET_KEY = 
-VITE_STRIPE_PUBLIC_KEY = 
+👉 FRONTEND_URL = "http://localhost:5173"
+👉 MONGODB_URI=
+👉 RESEND_API = 
+👉 SECRET_KEY_ACCESS_TOKEN = 
+👉 SECRET_KEY_REFRESH_TOKEN = 
+👉 CLOUDINARY_CLOUD_NAME = 
+👉 CLOUDINARY_API_KEY = 
+👉 CLOUDINARY_API_SECRET = 
+👉 STRIPE_SECRET_KEY = 
+👉 VITE_STRIPE_PUBLIC_KEY = 
 
 5. npm run dev
 6. cd client
@@ -29,9 +29,9 @@ VITE_STRIPE_PUBLIC_KEY =
 8. create .env file
 9. put this global variable in .env file
     
-VITE_API_URL = http://localhost:8080
-VITE_STRIPE_PUBLIC_KEY = 
-STRIPE_SECRET_KEY = 
+👉 VITE_API_URL = http://localhost:8080
+👉 VITE_STRIPE_PUBLIC_KEY = 
+👉 STRIPE_SECRET_KEY = 
 
 # Assets File
 Google Drive : https://drive.google.com/drive/folders/1QFLiEZF7nsTH8nhdh4MBgpjX9wM1AF2c
