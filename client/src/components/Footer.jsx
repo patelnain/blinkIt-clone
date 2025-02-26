@@ -10,13 +10,13 @@ const Footer = () => {
             <p>© All Rights Reserved 2025.</p>
 
             <div className='flex items-center gap-4 justify-center text-2xl'>
-                <a href='' className='hover:text-primary-100'>
+                <a href='https://rku.ac.in/' target='_blank' className='hover:text-primary-100'>
                     <FaFacebook/>
                 </a>
-                <a href='' className='hover:text-primary-100'>
+                <a href='https://rku.ac.in/' target='_blank' className='hover:text-primary-100'>
                     <FaInstagram/>
                 </a>
-                <a href='' className='hover:text-primary-100'>
+                <a href='https://rku.ac.in/' target='_blank' className='hover:text-primary-100'>
                     <FaLinkedin/>
                 </a>
             </div>
